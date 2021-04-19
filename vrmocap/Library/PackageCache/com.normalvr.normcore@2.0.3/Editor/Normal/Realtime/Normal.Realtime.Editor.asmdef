@@ -1,0 +1,19 @@
+{
+    "name": "Normal.Realtime.Editor",
+    "references": [
+        "Normal.Realtime",
+        "Normcore.Editor",
+        "Normcore"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

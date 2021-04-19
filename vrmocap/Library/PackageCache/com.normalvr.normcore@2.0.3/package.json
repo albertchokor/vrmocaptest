@@ -1,0 +1,17 @@
+{
+	"name": "com.normalvr.normcore",
+	"version": "2.0.3",
+	"displayName": "Normcore",
+	"description": "Your friendly neighborhood networking plugin :)",
+	"unity": "2018.4",
+	"keywords": [
+		"normal",
+		"normcore",
+		"multiplayer"
+	],
+	"author": {
+		"name": "Normal",
+		"email": "max@normalvr.com",
+		"url": "https://normcore.io"
+	}
+}
