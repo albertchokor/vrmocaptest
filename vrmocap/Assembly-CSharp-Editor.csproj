@@ -233,11 +233,11 @@
     <Reference Include="Valve.Newtonsoft.Json">
         <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="Normcore">
-        <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/PackageCache/com.normalvr.normcore@2.0.3/Runtime/UnityEditor/Normcore.dll</HintPath>
-    </Reference>
     <Reference Include="Normcore.Editor">
         <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/PackageCache/com.normalvr.normcore@2.0.3/Editor/Normcore.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Normcore">
+        <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/PackageCache/com.normalvr.normcore@2.0.3/Runtime/UnityEditor/Normcore.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
@@ -605,6 +605,9 @@
     <Reference Include="Unity.Timeline.Editor">
         <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Normal.Realtime.Editor">
+        <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/ScriptAssemblies/Normal.Realtime.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -623,17 +626,14 @@
     <Reference Include="Unity.Rider.Editor">
         <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Normal.Realtime">
+        <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/ScriptAssemblies/Normal.Realtime.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
         <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Normal.Realtime.Editor">
-        <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/ScriptAssemblies/Normal.Realtime.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Normal.Realtime">
-        <HintPath>C:/Users/alber/Documents/FRI/vrmocaptest/vrmocap/Library/ScriptAssemblies/Normal.Realtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
