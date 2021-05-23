@@ -42,6 +42,7 @@
      <Compile Include="Assets\Normal\Examples\Hoverbird Player\Scripts\HoverbirdPlayer.cs" />
      <Compile Include="Assets\Normal\Examples\Hoverbird Player\Scripts\HoverbirdPlayerManager.cs" />
      <Compile Include="Assets\Normal\Examples\VR Player\Scripts\VoiceMouthMove.cs" />
+     <Compile Include="Assets\Scripts\tracking\trackPoint.cs" />
      <Compile Include="Assets\ViveSR\Scripts\Eye\SRanipal_Eye.cs" />
      <Compile Include="Assets\ViveSR\Scripts\Eye\SRanipal_EyeData.cs" />
      <Compile Include="Assets\ViveSR\Scripts\Eye\SRanipal_EyeDataType_v1.cs" />
