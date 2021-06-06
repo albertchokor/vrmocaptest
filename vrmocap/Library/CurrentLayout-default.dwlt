@@ -14,16 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 0
-    y: 43
-    width: 2560
-    height: 1357
+    x: 8
+    y: 51
+    width: 1904
+    height: 981
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
+<<<<<<< HEAD
   m_MinSize: {x: 875, y: 542}
+=======
+  m_MinSize: {x: 875, y: 521}
+>>>>>>> parent of 0c43679... eyescript added
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 1
+  m_Maximized: 0
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -44,9 +48,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 2560
     height: 1357
   m_MinSize: {x: 875, y: 542}
+=======
+    width: 1904
+    height: 981
+  m_MinSize: {x: 875, y: 521}
+>>>>>>> parent of 0c43679... eyescript added
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -65,7 +75,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 2560
+    width: 1904
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -86,8 +96,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 1337
-    width: 2560
+    y: 961
+    width: 1904
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -110,12 +120,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 2560
     height: 1307
   m_MinSize: {x: 577, y: 471}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
   controlID: 56
+=======
+    width: 1904
+    height: 931
+  m_MinSize: {x: 577, y: 471}
+  m_MaxSize: {x: 14001, y: 14042}
+  vertical: 0
+  controlID: 63
+>>>>>>> parent of 0c43679... eyescript added
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,12 +154,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 2147
     height: 1307
   m_MinSize: {x: 302, y: 471}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 57
+=======
+    width: 1596
+    height: 931
+  m_MinSize: {x: 302, y: 471}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 64
+>>>>>>> parent of 0c43679... eyescript added
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,12 +188,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 2147
     height: 927
   m_MinSize: {x: 302, y: 200}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
   controlID: 58
+=======
+    width: 1596
+    height: 660
+  m_MinSize: {x: 302, y: 200}
+  m_MaxSize: {x: 8002, y: 4021}
+  vertical: 0
+  controlID: 65
+>>>>>>> parent of 0c43679... eyescript added
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,8 +220,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 613
-    height: 927
+    width: 457
+    height: 660
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
@@ -207,10 +244,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 613
+    x: 457
     y: 0
-    width: 1534
-    height: 927
+    width: 1139
+    height: 660
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
@@ -236,9 +273,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 927
-    width: 2147
-    height: 380
+    y: 660
+    width: 1596
+    height: 271
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 16}
@@ -262,10 +299,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 2147
+    x: 1596
     y: 0
+<<<<<<< HEAD
     width: 413
     height: 1307
+=======
+    width: 308
+    height: 931
+>>>>>>> parent of 0c43679... eyescript added
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
@@ -386,17 +428,23 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 73
-    width: 612
-    height: 906
+    x: 8
+    y: 81
+    width: 456
+    height: 639
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: e0baffff
       m_LastClickedID: -17696
       m_ExpandedIDs: 0abbffff0cbbffffd6bbffffa4c0ffffbac0ffffbec0ffffc8c0ffffcec0ffffd0c0fffff6c0ffffa0c2ffff48c3ffff34cbffff4acbffff4ecbffff58cbffff5ecbffff60cbffff98cbffffbef1ffffd6f1ffffdcf1ffffecf1fffff4f1ffff0af2ffff22f2ffff2af2ffff2ef2ffff36f2ffff3af2ffff3ef2ffff4ef2ffff52f2ffff5af2ffff80f2ffff84f2ffff8ef2ffff96f2ffff7cfaffff8cfaffffaafaffffb2faffffcafaffff0afbffff36fbffff5a3c0000f03c0000523d0000b64f00004650000056500000625000006c500000885000000259000066590000845c0000fe5c0000705d0000c4630000f26300004e6400005864000058700000
+=======
+      m_SelectedIDs: bc680000
+      m_LastClickedID: 26812
+      m_ExpandedIDs: ec8affff968bffff788dffff988effff28afffff9eb0ffff98b1ffff6ab3ffffecd1fffffcd1fffffed1ffff0ad2ffff22d2ffff2ad2ffff36d2ffff7ad2ffff90d2ffffa6d2ffffcad2ffffd0d2ffffd2d2ffff00d6ffff42d9ffffa8e1ffff04f4ffff14f4ffff16f4ffff22f4ffff3af4ffff4ef4ffff92f4ffffa8f4ffffbef4ffffe4f4ffff6afbffff883a0000963a0000dc3a0000d84a0000184f00005e4f0000864f0000b8540000fe54000026550000d05500001a5900006059000088590000405a00004c5c0000925c0000725d00004c5e0000665e0000725e00007c5e0000825e0000a45e0000b05e0000bc5e0000145f00001e620000646200002a6a0000446a0000586a00005e6a00007e6a00008a6a0000966a0000
+>>>>>>> parent of 0c43679... eyescript added
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: Setting Sample
@@ -441,10 +489,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 613
-    y: 73
-    width: 1532
-    height: 906
+    x: 465
+    y: 81
+    width: 1137
+    height: 639
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 25d3da3db1b58bb4e864ddbc2e4248ad
@@ -456,9 +504,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -18.558968, y: -14.842563, z: 20.941624}
     speed: 2
     m_Value: {x: -18.558968, y: -14.842563, z: 20.941624}
+=======
+    m_Target: {x: 10.499429, y: 14.160125, z: 1.8972874}
+    speed: 2
+    m_Value: {x: 10.499429, y: 14.160125, z: 1.8972874}
+>>>>>>> parent of 0c43679... eyescript added
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -506,11 +560,19 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.1777333, y: 0.046813235, z: -0.0074216654, w: -0.9831025}
     speed: 2
+<<<<<<< HEAD
     m_Value: {x: -0.17771526, y: 0.04533114, z: -0.0071538906, w: -0.9830113}
   m_Size:
     m_Target: 52.3173
     speed: 2
     m_Value: 54.782513
+=======
+    m_Value: {x: -0.0766257, y: -0.91778374, z: 0.22379164, w: -0.318934}
+  m_Size:
+    m_Target: 13.210477
+    speed: 2
+    m_Value: 12.641604
+>>>>>>> parent of 0c43679... eyescript added
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -556,10 +618,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 815
-    y: 304
-    width: 1374
-    height: 639
+    x: 403
+    y: 73
+    width: 962
+    height: 652
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &16
 MonoBehaviour:
@@ -582,10 +644,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 1000
-    width: 2146
-    height: 359
+    x: 8
+    y: 741
+    width: 1595
+    height: 250
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -600,20 +662,35 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Scenes
+=======
+    - Assets/Models
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Models
+>>>>>>> parent of 0c43679... eyescript added
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\nalin\Desktop\projects\vrmocaptest\vrmocap
+  m_LastProjectPath: C:\Users\alber\Documents\FRI\vrmocaptest\vrmocap
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 449}
     m_SelectedIDs: c83f0000
     m_LastClickedID: 16328
     m_ExpandedIDs: 000000008e3f0000903f0000923f0000943f0000963f0000983f00009a3f00009c3f00009e3f0000c43f00000c4000002e4000003040000072410000
+=======
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 123c0000
+    m_LastClickedID: 15378
+    m_ExpandedIDs: 00000000f03b0000f23b0000f43b0000f63b0000f83b0000fa3b0000fc3b000000ca9a3b
+>>>>>>> parent of 0c43679... eyescript added
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -641,7 +718,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000008e3f0000903f0000923f0000943f0000963f0000983f00009a3f00009c3f00009e3f0000
+=======
+    m_ExpandedIDs: 00000000f03b0000f23b0000f43b0000f63b0000f83b0000fa3b0000fc3b0000
+>>>>>>> parent of 0c43679... eyescript added
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -744,10 +825,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2147
-    y: 73
-    width: 412
-    height: 1286
+    x: 1604
+    y: 81
+    width: 307
+    height: 910
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
